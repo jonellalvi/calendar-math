@@ -1,0 +1,70 @@
+/******************************************
+    Styles for the Calendar Math App
+******************************************/
+
+/*** body styles ***/
+
+
+
+/*** wrapper stuff ***/
+
+.wrapper {
+
+    margin: 20px auto 20px auto;
+
+}
+
+/*** header stuff ***/
+
+
+/***  Menu styles ***/
+
+nav, footer {
+    clear: both;
+    background-color: #7076ae;
+    color: lightgray;
+    height: 30px;
+}
+
+nav ul {
+    margin: 0px;
+    padding: 5px 0px 5px 30px;
+}
+
+nav li {
+    display: inline;
+    margin-right: 40px;
+}
+
+
+/*** Content styles ***/
+
+.content {
+    width: 60%;
+    float: left;
+}
+
+/*** aside ***/
+
+aside {
+    width: 30%;
+    float: right;
+    padding: 0 0 0 20px;
+}
+
+/*** link styles ***/
+
+a {
+    color: lightgray;
+    text-decoration: none;
+}
+
+h3 a {
+    background-color: red;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+p a {
+    color: red;
+}
