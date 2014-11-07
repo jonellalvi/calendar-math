@@ -4,6 +4,10 @@
 
 /*** body styles ***/
 
+body{
+    font-family: sans-serif;
+    margin: 0 40px;
+}
 
 
 /*** wrapper stuff ***/
@@ -27,14 +31,23 @@ nav, footer {
 }
 
 nav ul {
-    margin: 0px;
-    padding: 5px 0px 5px 30px;
+    /*margin: 0;*/
+    padding: 5px 0 5px 30px;
+    position: relative;
 }
 
 nav li {
     display: inline;
-    margin-right: 40px;
+    padding-right: 30px;
 }
+
+li:last-child {
+    position: absolute;
+    right: 0;
+    top: 5px;
+
+}
+
 
 
 /*** Content styles ***/

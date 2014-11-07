@@ -1,0 +1,28 @@
+*{
+  box-sizing: border-box;
+}
+
+.login {
+    width: 640px;
+    height: 480px;
+    margin: auto;
+    background: lightsteelblue;
+    color: white;
+    position: relative;
+
+}
+
+.login header {
+    position: absolute;
+    top: 0;
+
+    width: 100%
+}
+
+.login footer {
+   position: absolute;
+    top: 0;
+
+    width: 100%
+
+}
