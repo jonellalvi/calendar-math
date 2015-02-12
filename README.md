@@ -1,7 +1,10 @@
 calendar-math
 =============
 
-My first web app. Given a fixed number of sessions, determine end date, or given an end date, determine how many sessions per day.
+This is a rough outline of html files used to sketch out the Time Engine, which is my idea for my main project for bootcamp. See that repository for the full project. 
+
+
+The framework for first web app. Given a fixed number of sessions, determine end date, or given an end date, determine how many sessions per day.
 
 I'm making my first full stack web app as part of the PDX Code Guild Developer boot camp. 
 
